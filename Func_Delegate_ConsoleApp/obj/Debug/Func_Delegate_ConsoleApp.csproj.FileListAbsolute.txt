@@ -1,0 +1,7 @@
+D:\Programing\c#\c# Level 2\Func_Delegate_ConsoleApp\bin\Debug\Func_Delegate_ConsoleApp.exe.config
+D:\Programing\c#\c# Level 2\Func_Delegate_ConsoleApp\bin\Debug\Func_Delegate_ConsoleApp.exe
+D:\Programing\c#\c# Level 2\Func_Delegate_ConsoleApp\bin\Debug\Func_Delegate_ConsoleApp.pdb
+D:\Programing\c#\c# Level 2\Func_Delegate_ConsoleApp\obj\Debug\Func_Delegate_ConsoleApp.csproj.AssemblyReference.cache
+D:\Programing\c#\c# Level 2\Func_Delegate_ConsoleApp\obj\Debug\Func_Delegate_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\c# Level 2\Func_Delegate_ConsoleApp\obj\Debug\Func_Delegate_ConsoleApp.exe
+D:\Programing\c#\c# Level 2\Func_Delegate_ConsoleApp\obj\Debug\Func_Delegate_ConsoleApp.pdb

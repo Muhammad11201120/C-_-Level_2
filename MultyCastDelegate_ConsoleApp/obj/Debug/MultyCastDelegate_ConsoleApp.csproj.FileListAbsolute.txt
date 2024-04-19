@@ -1,0 +1,7 @@
+D:\Programing\c#\c# Level 2\MultyCastDelegate_ConsoleApp\bin\Debug\MultyCastDelegate_ConsoleApp.exe.config
+D:\Programing\c#\c# Level 2\MultyCastDelegate_ConsoleApp\bin\Debug\MultyCastDelegate_ConsoleApp.exe
+D:\Programing\c#\c# Level 2\MultyCastDelegate_ConsoleApp\bin\Debug\MultyCastDelegate_ConsoleApp.pdb
+D:\Programing\c#\c# Level 2\MultyCastDelegate_ConsoleApp\obj\Debug\MultyCastDelegate_ConsoleApp.csproj.AssemblyReference.cache
+D:\Programing\c#\c# Level 2\MultyCastDelegate_ConsoleApp\obj\Debug\MultyCastDelegate_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\c# Level 2\MultyCastDelegate_ConsoleApp\obj\Debug\MultyCastDelegate_ConsoleApp.exe
+D:\Programing\c#\c# Level 2\MultyCastDelegate_ConsoleApp\obj\Debug\MultyCastDelegate_ConsoleApp.pdb

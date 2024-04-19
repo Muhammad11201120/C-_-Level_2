@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\c#\\c# Level 2\\Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D794F4-9A38-4C1E-87C9-311672EF298E}|Events.csproj|d:\\programing\\c#\\c# level 2\\events\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D794F4-9A38-4C1E-87C9-311672EF298E}|Events.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D794F4-9A38-4C1E-87C9-311672EF298E}|Events.csproj|d:\\programing\\c#\\c# level 2\\events\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3D794F4-9A38-4C1E-87C9-311672EF298E}|Events.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D794F4-9A38-4C1E-87C9-311672EF298E}|Events.csproj|d:\\programing\\c#\\c# level 2\\events\\ctrpersonage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D794F4-9A38-4C1E-87C9-311672EF298E}|Events.csproj|solutionrelative:ctrpersonage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D794F4-9A38-4C1E-87C9-311672EF298E}|Events.csproj|d:\\programing\\c#\\c# level 2\\events\\ctrpersonage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3D794F4-9A38-4C1E-87C9-311672EF298E}|Events.csproj|solutionrelative:ctrpersonage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programing\\c#\\c# Level 2\\Events\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programing\\c#\\c# Level 2\\Events\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAABAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:01:20.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ctrPersonAge.cs",
+              "DocumentMoniker": "D:\\Programing\\c#\\c# Level 2\\Events\\ctrPersonAge.cs",
+              "RelativeDocumentMoniker": "ctrPersonAge.cs",
+              "ToolTip": "D:\\Programing\\c#\\c# Level 2\\Events\\ctrPersonAge.cs",
+              "RelativeToolTip": "ctrPersonAge.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAABAwB4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:57:48.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ctrPersonAge.cs [Design]",
+              "DocumentMoniker": "D:\\Programing\\c#\\c# Level 2\\Events\\ctrPersonAge.cs",
+              "RelativeDocumentMoniker": "ctrPersonAge.cs",
+              "ToolTip": "D:\\Programing\\c#\\c# Level 2\\Events\\ctrPersonAge.cs [Design]",
+              "RelativeToolTip": "ctrPersonAge.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:57:46.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programing\\c#\\c# Level 2\\Events\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programing\\c#\\c# Level 2\\Events\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:56:17.928Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

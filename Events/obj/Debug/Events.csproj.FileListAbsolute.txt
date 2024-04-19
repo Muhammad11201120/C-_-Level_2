@@ -1,0 +1,11 @@
+D:\Programing\c#\c# Level 2\Events\bin\Debug\Events.exe.config
+D:\Programing\c#\c# Level 2\Events\bin\Debug\Events.exe
+D:\Programing\c#\c# Level 2\Events\bin\Debug\Events.pdb
+D:\Programing\c#\c# Level 2\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+D:\Programing\c#\c# Level 2\Events\obj\Debug\Events.ctrPersonAge.resources
+D:\Programing\c#\c# Level 2\Events\obj\Debug\Events.Properties.Resources.resources
+D:\Programing\c#\c# Level 2\Events\obj\Debug\Events.csproj.GenerateResource.cache
+D:\Programing\c#\c# Level 2\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+D:\Programing\c#\c# Level 2\Events\obj\Debug\Events.exe
+D:\Programing\c#\c# Level 2\Events\obj\Debug\Events.pdb
+D:\Programing\c#\c# Level 2\Events\obj\Debug\Events.Form1.resources

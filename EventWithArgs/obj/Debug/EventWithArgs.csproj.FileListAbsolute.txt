@@ -1,0 +1,11 @@
+D:\Programing\c#\c# Level 2\EventWithArgs\bin\Debug\EventWithArgs.exe.config
+D:\Programing\c#\c# Level 2\EventWithArgs\bin\Debug\EventWithArgs.exe
+D:\Programing\c#\c# Level 2\EventWithArgs\bin\Debug\EventWithArgs.pdb
+D:\Programing\c#\c# Level 2\EventWithArgs\obj\Debug\EventWithArgs.csproj.AssemblyReference.cache
+D:\Programing\c#\c# Level 2\EventWithArgs\obj\Debug\EventWithArgs.ctrCalculator.resources
+D:\Programing\c#\c# Level 2\EventWithArgs\obj\Debug\EventWithArgs.Properties.Resources.resources
+D:\Programing\c#\c# Level 2\EventWithArgs\obj\Debug\EventWithArgs.csproj.GenerateResource.cache
+D:\Programing\c#\c# Level 2\EventWithArgs\obj\Debug\EventWithArgs.csproj.CoreCompileInputs.cache
+D:\Programing\c#\c# Level 2\EventWithArgs\obj\Debug\EventWithArgs.exe
+D:\Programing\c#\c# Level 2\EventWithArgs\obj\Debug\EventWithArgs.pdb
+D:\Programing\c#\c# Level 2\EventWithArgs\obj\Debug\EventWithArgs.Form1.resources

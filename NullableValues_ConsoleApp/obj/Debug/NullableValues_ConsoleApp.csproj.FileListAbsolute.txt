@@ -1,0 +1,7 @@
+D:\Programing\c#\c# Level 2\NullableValues_ConsoleApp\bin\Debug\NullableValues_ConsoleApp.exe.config
+D:\Programing\c#\c# Level 2\NullableValues_ConsoleApp\bin\Debug\NullableValues_ConsoleApp.exe
+D:\Programing\c#\c# Level 2\NullableValues_ConsoleApp\bin\Debug\NullableValues_ConsoleApp.pdb
+D:\Programing\c#\c# Level 2\NullableValues_ConsoleApp\obj\Debug\NullableValues_ConsoleApp.csproj.AssemblyReference.cache
+D:\Programing\c#\c# Level 2\NullableValues_ConsoleApp\obj\Debug\NullableValues_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\c# Level 2\NullableValues_ConsoleApp\obj\Debug\NullableValues_ConsoleApp.exe
+D:\Programing\c#\c# Level 2\NullableValues_ConsoleApp\obj\Debug\NullableValues_ConsoleApp.pdb

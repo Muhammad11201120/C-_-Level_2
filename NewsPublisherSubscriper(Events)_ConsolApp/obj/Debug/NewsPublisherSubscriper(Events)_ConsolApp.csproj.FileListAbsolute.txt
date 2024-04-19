@@ -1,0 +1,7 @@
+D:\Programing\c#\c# Level 2\NewsPublisherSubscriper(Events)_ConsolApp\bin\Debug\NewsPublisherSubscriper(Events)_ConsolApp.exe.config
+D:\Programing\c#\c# Level 2\NewsPublisherSubscriper(Events)_ConsolApp\bin\Debug\NewsPublisherSubscriper(Events)_ConsolApp.exe
+D:\Programing\c#\c# Level 2\NewsPublisherSubscriper(Events)_ConsolApp\bin\Debug\NewsPublisherSubscriper(Events)_ConsolApp.pdb
+D:\Programing\c#\c# Level 2\NewsPublisherSubscriper(Events)_ConsolApp\obj\Debug\NewsPublisherSubscriper(Events)_ConsolApp.csproj.AssemblyReference.cache
+D:\Programing\c#\c# Level 2\NewsPublisherSubscriper(Events)_ConsolApp\obj\Debug\NewsPublisherSubscriper(Events)_ConsolApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\c# Level 2\NewsPublisherSubscriper(Events)_ConsolApp\obj\Debug\NewsPublisherSubscriper(Events)_ConsolApp.exe
+D:\Programing\c#\c# Level 2\NewsPublisherSubscriper(Events)_ConsolApp\obj\Debug\NewsPublisherSubscriper(Events)_ConsolApp.pdb

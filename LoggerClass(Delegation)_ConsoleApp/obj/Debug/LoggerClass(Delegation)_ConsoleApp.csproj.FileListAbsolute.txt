@@ -1,0 +1,7 @@
+D:\Programing\c#\c# Level 2\LoggerClass(Delegation)_ConsoleApp\bin\Debug\LoggerClass(Delegation)_ConsoleApp.exe.config
+D:\Programing\c#\c# Level 2\LoggerClass(Delegation)_ConsoleApp\bin\Debug\LoggerClass(Delegation)_ConsoleApp.exe
+D:\Programing\c#\c# Level 2\LoggerClass(Delegation)_ConsoleApp\bin\Debug\LoggerClass(Delegation)_ConsoleApp.pdb
+D:\Programing\c#\c# Level 2\LoggerClass(Delegation)_ConsoleApp\obj\Debug\LoggerClass(Delegation)_ConsoleApp.csproj.AssemblyReference.cache
+D:\Programing\c#\c# Level 2\LoggerClass(Delegation)_ConsoleApp\obj\Debug\LoggerClass(Delegation)_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\c# Level 2\LoggerClass(Delegation)_ConsoleApp\obj\Debug\LoggerClass(Delegation)_ConsoleApp.exe
+D:\Programing\c#\c# Level 2\LoggerClass(Delegation)_ConsoleApp\obj\Debug\LoggerClass(Delegation)_ConsoleApp.pdb

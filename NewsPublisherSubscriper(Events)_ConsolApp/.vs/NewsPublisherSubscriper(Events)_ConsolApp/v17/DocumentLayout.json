@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\c#\\c# Level 2\\NewsPublisherSubscriper(Events)_ConsolApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0162499D-7AA1-402E-B3AF-006810640BC3}|NewsPublisherSubscriper(Events)_ConsolApp.csproj|d:\\programing\\c#\\c# level 2\\newspublishersubscriper(events)_consolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0162499D-7AA1-402E-B3AF-006810640BC3}|NewsPublisherSubscriper(Events)_ConsolApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\c#\\c# Level 2\\NewsPublisherSubscriper(Events)_ConsolApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programing\\c#\\c# Level 2\\NewsPublisherSubscriper(Events)_ConsolApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA+wCgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:32:24.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

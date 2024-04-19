@@ -1,0 +1,7 @@
+D:\Programing\c#\c# Level 2\ThermoState(EVENTS)_ConsoleApp\bin\Debug\ThermoState(EVENTS)_ConsoleApp.exe.config
+D:\Programing\c#\c# Level 2\ThermoState(EVENTS)_ConsoleApp\bin\Debug\ThermoState(EVENTS)_ConsoleApp.exe
+D:\Programing\c#\c# Level 2\ThermoState(EVENTS)_ConsoleApp\bin\Debug\ThermoState(EVENTS)_ConsoleApp.pdb
+D:\Programing\c#\c# Level 2\ThermoState(EVENTS)_ConsoleApp\obj\Debug\ThermoState(EVENTS)_ConsoleApp.csproj.AssemblyReference.cache
+D:\Programing\c#\c# Level 2\ThermoState(EVENTS)_ConsoleApp\obj\Debug\ThermoState(EVENTS)_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\c# Level 2\ThermoState(EVENTS)_ConsoleApp\obj\Debug\ThermoState(EVENTS)_ConsoleApp.exe
+D:\Programing\c#\c# Level 2\ThermoState(EVENTS)_ConsoleApp\obj\Debug\ThermoState(EVENTS)_ConsoleApp.pdb
