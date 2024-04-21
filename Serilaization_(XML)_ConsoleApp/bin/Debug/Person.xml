@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Ahmed</Name>
+  <Age>25</Age>
+  <phoneNumber>123456789</phoneNumber>
+</Person>

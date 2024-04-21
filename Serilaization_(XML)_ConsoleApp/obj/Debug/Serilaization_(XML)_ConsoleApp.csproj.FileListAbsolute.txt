@@ -1,0 +1,7 @@
+D:\Programing\c#\C-_-Level_2\Serilaization_(XML)_ConsoleApp\bin\Debug\Serilaization_(XML)_ConsoleApp.exe.config
+D:\Programing\c#\C-_-Level_2\Serilaization_(XML)_ConsoleApp\bin\Debug\Serilaization_(XML)_ConsoleApp.exe
+D:\Programing\c#\C-_-Level_2\Serilaization_(XML)_ConsoleApp\bin\Debug\Serilaization_(XML)_ConsoleApp.pdb
+D:\Programing\c#\C-_-Level_2\Serilaization_(XML)_ConsoleApp\obj\Debug\Serilaization_(XML)_ConsoleApp.csproj.AssemblyReference.cache
+D:\Programing\c#\C-_-Level_2\Serilaization_(XML)_ConsoleApp\obj\Debug\Serilaization_(XML)_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\C-_-Level_2\Serilaization_(XML)_ConsoleApp\obj\Debug\Serilaization_(XML)_ConsoleApp.exe
+D:\Programing\c#\C-_-Level_2\Serilaization_(XML)_ConsoleApp\obj\Debug\Serilaization_(XML)_ConsoleApp.pdb

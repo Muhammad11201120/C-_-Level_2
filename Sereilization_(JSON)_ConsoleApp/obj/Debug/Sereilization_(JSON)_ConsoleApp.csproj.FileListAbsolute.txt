@@ -1,0 +1,7 @@
+D:\Programing\c#\C-_-Level_2\Sereilization_(JSON)_ConsoleApp\bin\Debug\Sereilization_(JSON)_ConsoleApp.exe.config
+D:\Programing\c#\C-_-Level_2\Sereilization_(JSON)_ConsoleApp\bin\Debug\Sereilization_(JSON)_ConsoleApp.exe
+D:\Programing\c#\C-_-Level_2\Sereilization_(JSON)_ConsoleApp\bin\Debug\Sereilization_(JSON)_ConsoleApp.pdb
+D:\Programing\c#\C-_-Level_2\Sereilization_(JSON)_ConsoleApp\obj\Debug\Sereilization_(JSON)_ConsoleApp.csproj.AssemblyReference.cache
+D:\Programing\c#\C-_-Level_2\Sereilization_(JSON)_ConsoleApp\obj\Debug\Sereilization_(JSON)_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\C-_-Level_2\Sereilization_(JSON)_ConsoleApp\obj\Debug\Sereilization_(JSON)_ConsoleApp.exe
+D:\Programing\c#\C-_-Level_2\Sereilization_(JSON)_ConsoleApp\obj\Debug\Sereilization_(JSON)_ConsoleApp.pdb

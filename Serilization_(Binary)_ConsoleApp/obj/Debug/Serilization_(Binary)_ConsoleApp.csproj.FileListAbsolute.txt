@@ -1,0 +1,7 @@
+D:\Programing\c#\C-_-Level_2\Serilization_(Binary)_ConsoleApp\bin\Debug\Serilization_(Binary)_ConsoleApp.exe.config
+D:\Programing\c#\C-_-Level_2\Serilization_(Binary)_ConsoleApp\bin\Debug\Serilization_(Binary)_ConsoleApp.exe
+D:\Programing\c#\C-_-Level_2\Serilization_(Binary)_ConsoleApp\bin\Debug\Serilization_(Binary)_ConsoleApp.pdb
+D:\Programing\c#\C-_-Level_2\Serilization_(Binary)_ConsoleApp\obj\Debug\Serilization_(Binary)_ConsoleApp.csproj.AssemblyReference.cache
+D:\Programing\c#\C-_-Level_2\Serilization_(Binary)_ConsoleApp\obj\Debug\Serilization_(Binary)_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\C-_-Level_2\Serilization_(Binary)_ConsoleApp\obj\Debug\Serilization_(Binary)_ConsoleApp.exe
+D:\Programing\c#\C-_-Level_2\Serilization_(Binary)_ConsoleApp\obj\Debug\Serilization_(Binary)_ConsoleApp.pdb
