@@ -1,0 +1,7 @@
+D:\Programing\c#\C-_-Level_2\SutomAttributesForValidation_ConsoleApp\bin\Debug\SutomAttributesForValidation_ConsoleApp.exe.config
+D:\Programing\c#\C-_-Level_2\SutomAttributesForValidation_ConsoleApp\bin\Debug\SutomAttributesForValidation_ConsoleApp.exe
+D:\Programing\c#\C-_-Level_2\SutomAttributesForValidation_ConsoleApp\bin\Debug\SutomAttributesForValidation_ConsoleApp.pdb
+D:\Programing\c#\C-_-Level_2\SutomAttributesForValidation_ConsoleApp\obj\Debug\SutomAttributesForValidation_ConsoleApp.csproj.AssemblyReference.cache
+D:\Programing\c#\C-_-Level_2\SutomAttributesForValidation_ConsoleApp\obj\Debug\SutomAttributesForValidation_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\C-_-Level_2\SutomAttributesForValidation_ConsoleApp\obj\Debug\SutomAttributesForValidation_ConsoleApp.exe
+D:\Programing\c#\C-_-Level_2\SutomAttributesForValidation_ConsoleApp\obj\Debug\SutomAttributesForValidation_ConsoleApp.pdb

@@ -17,6 +17,9 @@ namespace ReflectionWithCustomAttributes_ConsoleApp
                 Description = description;
             }
         }
+        /// <summary>
+        /// /////////////////////////////////////////
+        /// </summary>
         [Description( "This is a class" )]
         public class MyClass
         {
@@ -25,6 +28,9 @@ namespace ReflectionWithCustomAttributes_ConsoleApp
             {
             }
         }
+        /// <summary>
+        /// //////////////////////////////////////////
+        /// </summary>
         static void Main( string[] args )
         {
             //Get Type Of MyClass

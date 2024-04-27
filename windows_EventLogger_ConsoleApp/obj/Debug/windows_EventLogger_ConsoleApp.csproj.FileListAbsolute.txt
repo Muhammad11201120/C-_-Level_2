@@ -1,0 +1,7 @@
+D:\Programing\c#\C-_-Level_2\windows_EventLogger_ConsoleApp\bin\Debug\windows_EventLogger_ConsoleApp.exe.config
+D:\Programing\c#\C-_-Level_2\windows_EventLogger_ConsoleApp\bin\Debug\windows_EventLogger_ConsoleApp.exe
+D:\Programing\c#\C-_-Level_2\windows_EventLogger_ConsoleApp\bin\Debug\windows_EventLogger_ConsoleApp.pdb
+D:\Programing\c#\C-_-Level_2\windows_EventLogger_ConsoleApp\obj\Debug\windows_EventLogger_ConsoleApp.csproj.AssemblyReference.cache
+D:\Programing\c#\C-_-Level_2\windows_EventLogger_ConsoleApp\obj\Debug\windows_EventLogger_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\C-_-Level_2\windows_EventLogger_ConsoleApp\obj\Debug\windows_EventLogger_ConsoleApp.exe
+D:\Programing\c#\C-_-Level_2\windows_EventLogger_ConsoleApp\obj\Debug\windows_EventLogger_ConsoleApp.pdb

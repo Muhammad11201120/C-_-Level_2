@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,6 +18,12 @@ namespace Reflection_Type_Class_ConsoleApp
             Console.WriteLine( "Name: {0}", myType.Name );
             Console.WriteLine( "Namespace: {0}", myType.Namespace );
             Console.WriteLine( "Assembly Qualified Name: {0}", myType.AssemblyQualifiedName );
+
+            object[] methods = myType.GetMethods();
+            foreach ( var method in methods )
+            {
+                Console.WriteLine( method );
+            }
             Console.ReadKey();
         }
     }
