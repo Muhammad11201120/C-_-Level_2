@@ -1,0 +1,7 @@
+D:\Programing\c#\C-_-Level_2\operator_overloading_ConsoleApp\bin\Debug\operator_overloading_ConsoleApp.exe.config
+D:\Programing\c#\C-_-Level_2\operator_overloading_ConsoleApp\bin\Debug\operator_overloading_ConsoleApp.exe
+D:\Programing\c#\C-_-Level_2\operator_overloading_ConsoleApp\bin\Debug\operator_overloading_ConsoleApp.pdb
+D:\Programing\c#\C-_-Level_2\operator_overloading_ConsoleApp\obj\Debug\operator_overloading_ConsoleApp.csproj.AssemblyReference.cache
+D:\Programing\c#\C-_-Level_2\operator_overloading_ConsoleApp\obj\Debug\operator_overloading_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\C-_-Level_2\operator_overloading_ConsoleApp\obj\Debug\operator_overloading_ConsoleApp.exe
+D:\Programing\c#\C-_-Level_2\operator_overloading_ConsoleApp\obj\Debug\operator_overloading_ConsoleApp.pdb
