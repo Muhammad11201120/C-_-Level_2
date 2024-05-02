@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel_For_Examole_ConsoleApp", "Parallel_For_Examole_ConsoleApp.csproj", "{A6BFC0FE-6358-48F9-A753-3094A114B5EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6BFC0FE-6358-48F9-A753-3094A114B5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BFC0FE-6358-48F9-A753-3094A114B5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BFC0FE-6358-48F9-A753-3094A114B5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BFC0FE-6358-48F9-A753-3094A114B5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6706062C-81B3-480D-A5F7-2DC453433919}
+	EndGlobalSection
+EndGlobal

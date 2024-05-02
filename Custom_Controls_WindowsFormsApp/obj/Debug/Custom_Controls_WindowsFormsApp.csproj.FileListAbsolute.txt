@@ -1,0 +1,10 @@
+D:\Programing\c#\C-_-Level_2\Custom_Controls_WindowsFormsApp\bin\Debug\Custom_Controls_WindowsFormsApp.exe.config
+D:\Programing\c#\C-_-Level_2\Custom_Controls_WindowsFormsApp\bin\Debug\Custom_Controls_WindowsFormsApp.exe
+D:\Programing\c#\C-_-Level_2\Custom_Controls_WindowsFormsApp\bin\Debug\Custom_Controls_WindowsFormsApp.pdb
+D:\Programing\c#\C-_-Level_2\Custom_Controls_WindowsFormsApp\obj\Debug\Custom_Controls_WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Programing\c#\C-_-Level_2\Custom_Controls_WindowsFormsApp\obj\Debug\Custom_Controls_WindowsFormsApp.Properties.Resources.resources
+D:\Programing\c#\C-_-Level_2\Custom_Controls_WindowsFormsApp\obj\Debug\Custom_Controls_WindowsFormsApp.csproj.GenerateResource.cache
+D:\Programing\c#\C-_-Level_2\Custom_Controls_WindowsFormsApp\obj\Debug\Custom_Controls_WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\C-_-Level_2\Custom_Controls_WindowsFormsApp\obj\Debug\Custom_Controls_WindowsFormsApp.exe
+D:\Programing\c#\C-_-Level_2\Custom_Controls_WindowsFormsApp\obj\Debug\Custom_Controls_WindowsFormsApp.pdb
+D:\Programing\c#\C-_-Level_2\Custom_Controls_WindowsFormsApp\obj\Debug\Custom_Controls_WindowsFormsApp.Form1.resources

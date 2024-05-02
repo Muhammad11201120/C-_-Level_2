@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{080FC3DB-6806-4F82-88E2-637ABB9D9718}|Custom_Controls_WindowsFormsApp.csproj|d:\\programing\\c#\\c-_-level_2\\custom_controls_windowsformsapp\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080FC3DB-6806-4F82-88E2-637ABB9D9718}|Custom_Controls_WindowsFormsApp.csproj|solutionrelative:customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080FC3DB-6806-4F82-88E2-637ABB9D9718}|Custom_Controls_WindowsFormsApp.csproj|D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{080FC3DB-6806-4F82-88E2-637ABB9D9718}|Custom_Controls_WindowsFormsApp.csproj|solutionrelative:customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080FC3DB-6806-4F82-88E2-637ABB9D9718}|Custom_Controls_WindowsFormsApp.csproj|D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{080FC3DB-6806-4F82-88E2-637ABB9D9718}|Custom_Controls_WindowsFormsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080FC3DB-6806-4F82-88E2-637ABB9D9718}|Custom_Controls_WindowsFormsApp.csproj|D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080FC3DB-6806-4F82-88E2-637ABB9D9718}|Custom_Controls_WindowsFormsApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080FC3DB-6806-4F82-88E2-637ABB9D9718}|Custom_Controls_WindowsFormsApp.csproj|D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080FC3DB-6806-4F82-88E2-637ABB9D9718}|Custom_Controls_WindowsFormsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:04:44.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vxoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:16:20.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomControl1.cs",
+              "DocumentMoniker": "D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\CustomControl1.cs",
+              "RelativeDocumentMoniker": "CustomControl1.cs",
+              "ToolTip": "D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\CustomControl1.cs",
+              "RelativeToolTip": "CustomControl1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:03:14.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomControl1.cs [Design]",
+              "DocumentMoniker": "D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\CustomControl1.cs",
+              "RelativeDocumentMoniker": "CustomControl1.cs",
+              "ToolTip": "D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\CustomControl1.cs [Design]",
+              "RelativeToolTip": "CustomControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:03:11.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programing\\c#\\C-_-Level_2\\Custom_Controls_WindowsFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:01:13.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

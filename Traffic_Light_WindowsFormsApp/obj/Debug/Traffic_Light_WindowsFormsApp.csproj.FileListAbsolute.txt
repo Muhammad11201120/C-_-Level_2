@@ -1,0 +1,11 @@
+D:\Programing\c#\C-_-Level_2\Traffic_Light_WindowsFormsApp\bin\Debug\Traffic_Light_WindowsFormsApp.exe.config
+D:\Programing\c#\C-_-Level_2\Traffic_Light_WindowsFormsApp\bin\Debug\Traffic_Light_WindowsFormsApp.exe
+D:\Programing\c#\C-_-Level_2\Traffic_Light_WindowsFormsApp\bin\Debug\Traffic_Light_WindowsFormsApp.pdb
+D:\Programing\c#\C-_-Level_2\Traffic_Light_WindowsFormsApp\obj\Debug\Traffic_Light_WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Programing\c#\C-_-Level_2\Traffic_Light_WindowsFormsApp\obj\Debug\Traffic_Light_WindowsFormsApp.Properties.Resources.resources
+D:\Programing\c#\C-_-Level_2\Traffic_Light_WindowsFormsApp\obj\Debug\Traffic_Light_WindowsFormsApp.UserControl1.resources
+D:\Programing\c#\C-_-Level_2\Traffic_Light_WindowsFormsApp\obj\Debug\Traffic_Light_WindowsFormsApp.csproj.GenerateResource.cache
+D:\Programing\c#\C-_-Level_2\Traffic_Light_WindowsFormsApp\obj\Debug\Traffic_Light_WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Programing\c#\C-_-Level_2\Traffic_Light_WindowsFormsApp\obj\Debug\Traffic_Light_WindowsFormsApp.exe
+D:\Programing\c#\C-_-Level_2\Traffic_Light_WindowsFormsApp\obj\Debug\Traffic_Light_WindowsFormsApp.pdb
+D:\Programing\c#\C-_-Level_2\Traffic_Light_WindowsFormsApp\obj\Debug\Traffic_Light_WindowsFormsApp.Form1.resources

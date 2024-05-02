@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel_method_invoke_example_ConsoleApp", "Parallel_method_invoke_example_ConsoleApp.csproj", "{25F8A379-3DFC-43EC-8F4C-7492A39374BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25F8A379-3DFC-43EC-8F4C-7492A39374BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F8A379-3DFC-43EC-8F4C-7492A39374BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F8A379-3DFC-43EC-8F4C-7492A39374BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F8A379-3DFC-43EC-8F4C-7492A39374BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9999189-1BA5-4FEB-A43A-BADCBD14A244}
+	EndGlobalSection
+EndGlobal
